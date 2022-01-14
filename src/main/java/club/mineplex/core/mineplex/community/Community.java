@@ -1,6 +1,6 @@
-package club.mineplex.core.minecraft.community;
+package club.mineplex.core.mineplex.community;
 
-import club.mineplex.core.minecraft.player.PlayerData;
+import club.mineplex.core.mineplex.player.PlayerData;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.*;

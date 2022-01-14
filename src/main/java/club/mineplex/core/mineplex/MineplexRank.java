@@ -1,4 +1,4 @@
-package club.mineplex.core.minecraft;
+package club.mineplex.core.mineplex;
 
 import lombok.NonNull;
 import net.kyori.adventure.text.Component;

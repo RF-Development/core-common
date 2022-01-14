@@ -1,6 +1,6 @@
-package club.mineplex.core.minecraft.player;
+package club.mineplex.core.mineplex.player;
 
-import club.mineplex.core.minecraft.MineplexRank;
+import club.mineplex.core.mineplex.MineplexRank;
 import club.mineplex.core.util.UtilText;
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonIgnore;
